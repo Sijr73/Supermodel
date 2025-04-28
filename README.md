@@ -35,3 +35,9 @@ It automatically:
 ├── paperPlots/                  # aggregation, regressions, main-text figures
 ├── makeFile.sh                  # one-stop reproducibility driver
 └── LICENSE
+```
+## Contact
+If you have any questions or run into issues, please open an issue in the repository or contact the repository maintainer.
+
+## Citation
+If you build upon this code or data, please cite:
