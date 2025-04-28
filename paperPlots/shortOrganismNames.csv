@@ -1,0 +1,103 @@
+,bigg_id,organism,shortO,sO
+1,iYO844,Bacillus subtilis subsp. subtilis str. 168,Bacillus subtilis,B. subtilis
+2,iSM199,Buchnera aphidicola str. APS,Buchnera aphidicola,B. aphidicola
+3,iRC1080,Chlamydomonas,Chlamydomonas,Chlamydomonas
+4,iHN637,Clostridium ljungdahlii DSM 13528,Clostridium ljungdahlii,C. ljungdahlii
+5,iEC042_1314,Escherichia coli 042,Escherichia coli,E. coli
+6,iECP_1309,Escherichia coli 536,Escherichia coli,E. coli
+7,iEC55989_1330,Escherichia coli 55989,Escherichia coli,E. coli
+8,iECABU_c1320,Escherichia coli ABU 83972,Escherichia coli,E. coli
+9,iAPECO1_1312,Escherichia coli APEC O1,Escherichia coli,E. coli
+10,iEcolC_1368,Escherichia coli ATCC 8739,Escherichia coli,E. coli
+11,iECD_1391,Escherichia coli BL21(DE3),Escherichia coli,E. coli
+12,iB21_1397,Escherichia coli BL21(DE3),Escherichia coli,E. coli
+13,iECBD_1354,Escherichia coli BL21-Gold(DE3)pLysS AG,Escherichia coli,E. coli
+14,iECB_1328,Escherichia coli B str. REL606,Escherichia coli,E. coli
+15,iBWG_1329,Escherichia coli BW2952,Escherichia coli,E. coli
+16,ic_1306,Escherichia coli CFT073,Escherichia coli,E. coli
+17,iEcDH1_1363,Escherichia coli DH1,Escherichia coli,E. coli
+18,iECDH1ME8569_1439,Escherichia coli DH1,Escherichia coli,E. coli
+19,iEcE24377_1341,Escherichia coli E24377A,Escherichia coli,E. coli
+20,iECED1_1282,Escherichia coli ED1a,Escherichia coli,E. coli
+21,iETEC_1333,Escherichia coli ETEC H10407,Escherichia coli,E. coli
+22,iEcHS_1320,Escherichia coli HS,Escherichia coli,E. coli
+23,iECIAI1_1343,Escherichia coli IAI1,Escherichia coli,E. coli
+24,iECIAI39_1322,Escherichia coli IAI39,Escherichia coli,E. coli
+25,iECOK1_1307,Escherichia coli IHE3034,Escherichia coli,E. coli
+26,iEKO11_1354,Escherichia coli KO11FL,Escherichia coli,E. coli
+27,iLF82_1304,Escherichia coli LF82,Escherichia coli,E. coli
+28,iECNA114_1301,Escherichia coli NA114,Escherichia coli,E. coli
+29,iECO103_1326,Escherichia coli O103:H2 str. 12009,Escherichia coli,E. coli
+30,iECO111_1330,Escherichia coli O111:H- str. 11128,Escherichia coli,E. coli
+31,iE2348C_1286,Escherichia coli O127:H6 str. E2348/69,Escherichia coli,E. coli
+32,iECH74115_1262,Escherichia coli O157:H7 str. EC4115,Escherichia coli,E. coli
+33,iZ_1308,Escherichia coli O157:H7 str. EDL933,Escherichia coli,E. coli
+34,iECs_1301,Escherichia coli O157:H7 str. Sakai,Escherichia coli,E. coli
+35,iECSP_1301,Escherichia coli O157:H7 str. TW14359,Escherichia coli,E. coli
+36,iECO26_1355,Escherichia coli O26:H11 str. 11368,Escherichia coli,E. coli
+37,iG2583_1286,Escherichia coli O55:H7 str. CB9615,Escherichia coli,E. coli
+38,iNRG857_1313,Escherichia coli O83:H1 str. NRG 857C,Escherichia coli,E. coli
+39,iECS88_1305,Escherichia coli S88,Escherichia coli,E. coli
+40,iECSE_1348,Escherichia coli SE11,Escherichia coli,E. coli
+41,iECSF_1327,Escherichia coli SE15,Escherichia coli,E. coli
+42,iEcSMS35_1347,Escherichia coli SMS-3-5,Escherichia coli,E. coli
+43,iECDH10B_1368,Escherichia coli str. K-12 substr. DH10B,Escherichia coli,E. coli
+44,e_coli_core,Escherichia coli str. K-12 substr. MG1655,Escherichia coli,E. coli
+45,iAF1260,Escherichia coli str. K-12 substr. MG1655,Escherichia coli,E. coli
+46,iAF1260b,Escherichia coli str. K-12 substr. MG1655,Escherichia coli,E. coli
+47,iJO1366,Escherichia coli str. K-12 substr. MG1655,Escherichia coli,E. coli
+48,iJR904,Escherichia coli str. K-12 substr. MG1655,Escherichia coli,E. coli
+49,iY75_1357,Escherichia coli str. K-12 substr. W3110,Escherichia coli,E. coli
+50,iUMN146_1321,Escherichia coli UM146,Escherichia coli,E. coli
+51,iECUMN_1333,Escherichia coli UMN026,Escherichia coli,E. coli
+52,iUMNK88_1353,Escherichia coli UMNK88,Escherichia coli,E. coli
+53,iUTI89_1310,Escherichia coli UTI89,Escherichia coli,E. coli
+54,iECW_1372,Escherichia coli W,Escherichia coli,E. coli
+55,iWFL_1372,Escherichia coli W,Escherichia coli,E. coli
+56,iAF987,Geobacter metallireducens GS-15,Geobacter metallireducens,G. metallireducens
+57,iIT341,Helicobacter pylori 26695,Helicobacter pylori,H. pylori
+58,iYL1228,Klebsiella pneumoniae subsp. pneumoniae MGH 78578,Klebsiella pneumoniae,K. pneumoniae
+59,iAF692,Methanosarcina barkeri str. Fusaro,Methanosarcina barkeri,M. barkeri
+60,iNJ661,Mycobacterium tuberculosis H37Rv,Mycobacterium tuberculosis,M. tuberculosis
+61,iJN746,Pseudomonas putida KT2440,Pseudomonas putida,P. putida
+62,iMM904,Saccharomyces cerevisiae S288c,Saccharomyces cerevisiae,S. cerevisiae
+63,iND750,Saccharomyces cerevisiae S288c,Saccharomyces cerevisiae,S. cerevisiae
+64,STM_v1_0,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,Salmonella enterica,S. enterica
+65,iSbBS512_1146,Shigella boydii CDC 3083-94,Shigella boydii,S. boydii
+66,iSBO_1134,Shigella boydii Sb227,Shigella boydii,S. boydii
+67,iSDY_1059,Shigella dysenteriae Sd197,Shigella dysenteriae,S. dysenteriae
+68,iSFxv_1172,Shigella flexneri 2002017,Shigella flexneri,S. flexneri
+69,iS_1188,Shigella flexneri 2a str. 2457T,Shigella flexneri,S. flexneri
+70,iSF_1195,Shigella flexneri 2a str. 301,Shigella flexneri,S. flexneri
+71,iSFV_1184,Shigella flexneri 5 str. 8401,Shigella flexneri,S. flexneri
+72,iSSON_1240,Shigella sonnei Ss046,Shigella sonnei,S. sonnei
+73,iSB619,Staphylococcus aureus subsp. aureus N315,Staphylococcus aureus,S. aureus
+74,iJN678,Synechocystis sp. PCC 6803,Synechocystis,Synechocystis
+75,iLJ478,Thermotoga maritima MSB8,Thermotoga maritima,T. maritima
+76,iPC815,Yersinia pestis CO92,Yersinia pestis,Y. pestis
+77,iAM_Pb448,Plasmodium berghei,Plasmodium berghei,P. berghei
+78,iAM_Pc455,Plasmodium cynomolgi strain B,Plasmodium cynomolgi,P. cynomolgi
+79,iAM_Pf480,Plasmodium falciparum 3D7,Plasmodium falciparum,P. falciparum
+80,iAM_Pk459,Plasmodium knowlesi strain H,Plasmodium knowlesi,P. knowlesi
+81,iAM_Pv461,Plasmodium vivax Sal-1,Plasmodium vivax,P. vivax
+82,iCN718,Acinetobacter baumannii AYE,Acinetobacter baumannii,A. baumannii
+83,iCN900,Clostridioides difficile 630,Clostridioides difficile,C. difficile
+84,iEC1344_C,Escherichia coli C,Escherichia coli,E. coli
+85,iEC1349_Crooks,Escherichia coli ATCC 8739,Escherichia coli,E. coli
+86,iEC1356_BI23DE3,Escherichia coli BL21(DE3),Escherichia coli,E. coli
+87,iEC1364_W,Escherichia coli W,Escherichia coli,E. coli
+88,iEC1368_DH5a,Escherichia coli DH5[alpha],Escherichia coli,E. coli
+89,iEC1372_W3110,Escherichia coli str. K-12 substr. W3110,Escherichia coli,E. coli
+90,iEK1008,Mycobacterium tuberculosis H37Rv,Mycobacterium tuberculosis,M. tuberculosis
+91,iIS312,Trypanosoma cruzi Dm28c,Trypanosoma cruzi,T. cruzi
+92,iIS312_Amastigote,Trypanosoma cruzi Dm28c,Trypanosoma cruzi,T. cruzi
+93,iIS312_Epimastigote,Trypanosoma cruzi Dm28c,Trypanosoma cruzi,T. cruzi
+94,iIS312_Trypomastigote,Trypanosoma cruzi Dm28c,Trypanosoma cruzi,T. cruzi
+95,iJB785,Synechococcus elongatus PCC 7942,Synechococcus elongatus,S. elongatus
+96,iLB1027_lipid,Phaeodactylum tricornutum CCAP 1055/1,Phaeodactylum tricornutum,P. tricornutum
+97,iNF517,Lactococcus lactis subsp. cremoris MG1363,Lactococcus lactis,L. lactis
+98,iSynCJ816,Synechocystis sp. PCC 6803,Synechocystis,Synechocystis
+99,iYS1720,Salmonella pan-reactome,Salmonella,Salmonella
+100,iML1515,Escherichia coli str. K-12 substr. MG1655,Escherichia coli,E. coli
+101,iJN1463,Pseudomonas putida KT2440,Pseudomonas putida,P. putida
+102,iYS854,Staphylococcus aureus subsp. aureus USA300_TCH1516 ,Staphylococcus aureus,S. aureus

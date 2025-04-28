@@ -1,0 +1,41 @@
+bigg_id	metaNetXId	Scoef	comment
+h2o[c]	MNXM2@[MNXC3]	-1	ATP energy
+atp[c]	MNXM3@[MNXC3]	-1	ATP energy
+adp[c]	MNXM7@[MNXC3]	1	ATP energy
+pi[c]	MNXM9@[MNXC3]	1	ATP energy
+h[c]	MNXM1@[MNXC3]	1	ATP energy
+#
+ala__L[c]	MNXM32@[MNXC3]	-0.1	bigg:ala-L
+arg__L[c]	MNXM70@[MNXC3]	-0.1	bigg:arg-L
+asn__L[c]	MNXM147@[MNXC3]	-0.1	bigg:asn-L
+asp__L[c]	MNXM42@[MNXC3]	-0.1	bigg:asp-L
+cys__L[c]	MNXM55@[MNXC3]	-0.1	bigg:cys-L
+gln__L[c]	MNXM37@[MNXC3]	-0.1	bigg:gln-L
+glu__L[c]	MNXM89557@[MNXC3]	-0.1	bigg:glu-L
+gly[c]	MNXM29@[MNXC3]	-0.1	bigg:gly
+his__L[c]	MNXM134@[MNXC3]	-0.1	bigg:his-L
+ile__L[c]	MNXM231@[MNXC3]	-0.1	bigg:ile-L
+leu__L[c]	MNXM140@[MNXC3]	-0.1	bigg:leu-L
+lys__L[c]	MNXM78@[MNXC3]	-0.1	bigg:lys-L
+met__L[c]	MNXM61@[MNXC3]	-0.1	bigg:met-L
+phe__L[c]	MNXM97@[MNXC3]	-0.1	bigg:phe-L
+pro__L[c]	MNXM114@[MNXC3]	-0.1	bigg:pro-L
+ser__L[c]	MNXM53@[MNXC3]	-0.1	bigg:ser-L
+thr__L[c]	MNXM142@[MNXC3]	-0.1	bigg:thr-L
+trp__L[c]	MNXM94@[MNXC3]	-0.1	bigg:trp-L
+tyr__L[c]	MNXM76@[MNXC3]	-0.1	bigg:tyr-L
+val__L[c]	MNXM199@[MNXC3]	-0.1	bigg:val-L
+h2o[c]	MNXM2@[MNXC3]	2	bigg:h2o
+#
+datp[c]	MNXM286@[MNXC3]	-0.1	dATP
+dctp[c]	MNXM360@[MNXC3]	-0.1	dCTP
+dgtp[c]	MNXM344@[MNXC3]	-0.1	dGTP
+dttp[c]	MNXM394@[MNXC3]	-0.1	dTTP
+ppi[c]	MNXM11@[MNXC3]	0.4	ppi
+#
+atp[c]	MNXM3@[MNXC3]	-0.02	ATP
+ctp[c]	MNXM63@[MNXC3]	-0.02	CTP
+gtp[c]	MNXM51@[MNXC3]	-0.02	GTP
+utp[c]	MNXM121@[MNXC3]	-0.02	UTP
+ppi[c]	MNXM11@[MNXC3]	0.04	ppi
+

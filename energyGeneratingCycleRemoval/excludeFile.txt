@@ -1,0 +1,3 @@
+logfiles/*
+results?*
+results/*

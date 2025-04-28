@@ -1,0 +1,25 @@
+###### git ignore
+*.pdf
+*.Rdata
+*.d
+*.out
+
+
+# specific files
+modelsCheck/biomassTable.csv
+
+energyGeneratingCycleRemoval/results/*
+
+
+!sourceData/buchnera.Rdata
+!models/*.Rdata
+
+
+
+
+
+
+
+
+
+

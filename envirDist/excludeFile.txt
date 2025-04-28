@@ -1,0 +1,7 @@
+logfiles/*
+fbadata/*
+envirdata*
+crossdata*
+tmpdir/*
+plots/*
+splitMILP/*

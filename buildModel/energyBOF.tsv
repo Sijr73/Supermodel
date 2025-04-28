@@ -1,0 +1,7 @@
+bigg_id	metaNetXId	Scoef	comment
+h2o[c]	MNXM2@[MNXC3]	-1	ATP energy
+atp[c]	MNXM3@[MNXC3]	-1	ATP energy
+adp[c]	MNXM7@[MNXC3]	1	ATP energy
+pi[c]	MNXM9@[MNXC3]	1	ATP energy
+h[c]	MNXM1@[MNXC3]	1	ATP energy
+

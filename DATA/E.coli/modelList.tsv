@@ -1,0 +1,102 @@
+bigg_id	organism	gene_count	metabolite_count	reaction_count
+e_coli_core	Escherichia coli str. K-12 substr. MG1655	137	72	95
+iAF1260	Escherichia coli str. K-12 substr. MG1655	1261	1668	2382
+iAF1260b	Escherichia coli str. K-12 substr. MG1655	1261	1668	2388
+iAF692	Methanosarcina barkeri str. Fusaro	692	628	690
+iAF987	Geobacter metallireducens GS-15	987	1109	1285
+iAM_Pb448	Plasmodium berghei	448	903	1067
+iAM_Pc455	Plasmodium cynomolgi strain B	455	907	1074
+iAM_Pf480	Plasmodium falciparum 3D7	480	909	1083
+iAM_Pk459	Plasmodium knowlesi strain H	459	909	1079
+iAM_Pv461	Plasmodium vivax Sal-1	461	909	1078
+iAPECO1_1312	Escherichia coli APEC O1	1313	1944	2736
+iB21_1397	Escherichia coli BL21(DE3)	1337	1945	2742
+iBWG_1329	Escherichia coli BW2952	1328	1949	2742
+ic_1306	Escherichia coli CFT073	1307	1938	2727
+iCN718	Acinetobacter baumannii AYE	709	888	1015
+iCN900	Clostridioides difficile 630	900	885	1229
+iE2348C_1286	Escherichia coli O127:H6 str. E2348/69	1284	1919	2704
+iEC042_1314	Escherichia coli 042	1314	1926	2715
+iEC1344_C	Escherichia coli C	1344	1934	2726
+iEC1349_Crooks	Escherichia coli ATCC 8739	1349	1946	2756
+iEC1356_Bl21DE3	Escherichia coli BL21(DE3)	1356	1918	2740
+iEC1364_W	Escherichia coli W	1364	1927	2764
+iEC1368_DH5a	Escherichia coli DH5[alpha]	1368	1951	2779
+iEC1372_W3110	Escherichia coli str. K-12 substr. W3110	1372	1918	2758
+iEC55989_1330	Escherichia coli 55989	1330	1953	2757
+iECABU_c1320	Escherichia coli ABU 83972	1320	1944	2732
+iECB_1328	Escherichia coli B str. REL606	1329	1953	2749
+iECBD_1354	Escherichia coli 'BL21-Gold(DE3)pLysS AG'	1354	1954	2749
+iECD_1391	Escherichia coli BL21(DE3)	1333	1945	2742
+iECDH10B_1368	Escherichia coli str. K-12 substr. DH10B	1327	1947	2743
+iEcDH1_1363	Escherichia coli DH1	1363	1949	2751
+iECDH1ME8569_1439	Escherichia coli DH1	1439	1950	2756
+iEcE24377_1341	Escherichia coli E24377A	1341	1974	2764
+iECED1_1282	Escherichia coli ED1a	1279	1929	2707
+iECH74115_1262	Escherichia coli O157:H7 str. EC4115	1262	1918	2695
+iEcHS_1320	Escherichia coli HS	1321	1965	2754
+iECIAI1_1343	Escherichia coli IAI1	1343	1970	2766
+iECIAI39_1322	Escherichia coli IAI39	1321	1957	2722
+iECNA114_1301	Escherichia coli NA114	1301	1927	2719
+iECO103_1326	Escherichia coli O103:H2 str. 12009	1327	1958	2759
+iECO111_1330	Escherichia coli O111:H- str. 11128	1328	1959	2761
+iECO26_1355	Escherichia coli O26:H11 str. 11368	1355	1965	2781
+iECOK1_1307	Escherichia coli IHE3034	1304	1943	2730
+iEcolC_1368	Escherichia coli ATCC 8739	1368	1971	2769
+iECP_1309	Escherichia coli 536	1309	1943	2740
+iECs_1301	Escherichia coli O157:H7 str. Sakai	1301	1923	2721
+iECS88_1305	Escherichia coli S88	1305	1944	2730
+iECSE_1348	Escherichia coli SE11	1348	1957	2769
+iECSF_1327	Escherichia coli SE15	1327	1951	2743
+iEcSMS35_1347	Escherichia coli SMS-3-5	1347	1949	2747
+iECSP_1301	Escherichia coli O157:H7 str. TW14359	1299	1920	2713
+iECUMN_1333	Escherichia coli UMN026	1332	1935	2741
+iECW_1372	Escherichia coli W	1372	1975	2783
+iEK1008	Mycobacterium tuberculosis H37Rv	1008	998	1226
+iEKO11_1354	Escherichia coli KO11FL	1354	1974	2779
+iETEC_1333	Escherichia coli ETEC H10407	1333	1964	2757
+iG2583_1286	Escherichia coli O55:H7 str. CB9615	1283	1919	2705
+iHN637	Clostridium ljungdahlii DSM 13528	637	698	785
+iIS312	Trypanosoma cruzi Dm28c	312	606	519
+iIS312_Amastigote	Trypanosoma cruzi Dm28c	312	606	519
+iIS312_Epimastigote	Trypanosoma cruzi Dm28c	312	606	519
+iIS312_Trypomastigote	Trypanosoma cruzi Dm28c	312	606	519
+iIT341	Helicobacter pylori 26695	339	485	554
+iJB785	Synechococcus elongatus PCC 7942	785	768	849
+iJN1463	Pseudomonas putida KT2440	1452	2153	2927
+iJN678	Synechocystis sp. PCC 6803	622	795	863
+iJN746	Pseudomonas putida KT2440	746	909	1056
+iJO1366	Escherichia coli str. K-12 substr. MG1655	1367	1805	2583
+iJR904	Escherichia coli str. K-12 substr. MG1655	904	761	1075
+iLF82_1304	Escherichia coli LF82	1302	1940	2727
+iLJ478	Thermotoga maritima MSB8	482	570	652
+iML1515	Escherichia coli str. K-12 substr. MG1655	1516	1877	2712
+iMM904	Saccharomyces cerevisiae S288c	905	1226	1577
+iND750	Saccharomyces cerevisiae S288c	750	1059	1266
+iNF517	Lactococcus lactis subsp. cremoris MG1363	516	650	754
+iNJ661	Mycobacterium tuberculosis H37Rv	661	826	1025
+iNRG857_1313	Escherichia coli O83:H1 str. NRG 857C	1311	1945	2736
+iPC815	Yersinia pestis CO92	815	1552	1961
+iRC1080	Chlamydomonas	1086	1706	2191
+iS_1188	Shigella flexneri 2a str. 2457T	1188	1914	2620
+iSB619	Staphylococcus aureus subsp. aureus N315	619	655	743
+iSbBS512_1146	Shigella boydii CDC 3083-94	1147	1912	2592
+iSBO_1134	Shigella boydii Sb227	1134	1910	2592
+iSDY_1059	Shigella dysenteriae Sd197	1059	1890	2540
+iSF_1195	Shigella flexneri 2a str. 301	1195	1917	2631
+iSFV_1184	Shigella flexneri 5 str. 8401	1184	1917	2622
+iSFxv_1172	Shigella flexneri 2002017	1169	1918	2639
+iSSON_1240	Shigella sonnei Ss046	1240	1938	2694
+iSynCJ816	Synechocystis sp. PCC 6803	816	928	1044
+iUMN146_1321	Escherichia coli UM146	1319	1944	2736
+iUMNK88_1353	Escherichia coli UMNK88	1353	1971	2778
+iUTI89_1310	Escherichia coli UTI89	1310	1942	2726
+iWFL_1372	Escherichia coli W	1372	1973	2782
+iY75_1357	Escherichia coli str. K-12 substr. W3110	1358	1953	2759
+iYL1228	Klebsiella pneumoniae subsp. pneumoniae MGH 78578	1229	1658	2262
+iYO844	Bacillus subtilis subsp. subtilis str. 168	844	990	1250
+iYS1720	Salmonella pan-reactome	1707	2435	3357
+iYS854	Staphylococcus aureus subsp. aureus USA300_TCH1516	866	1174	1455
+iZ_1308	Escherichia coli O157:H7 str. EDL933	1308	1923	2721
+STM_v1_0	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	1271	1802	2545
+iSM199	Buchnera aphidicola str. APS	199	298	297

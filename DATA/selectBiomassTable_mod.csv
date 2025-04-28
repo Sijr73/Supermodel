@@ -1,0 +1,139 @@
+react_id,modelName,numberBiomassReactions,use,reactionName
+BIOMASS_Ecoli_core_w_GAM,e_coli_core,1,X,Biomass Objective Function with GAM
+BIOMASS_Ec_iAF1260_core_59p81M,iAF1260,1,X,E. coli biomass objective function (iAF1260) - core - with 59.81 GAM estimate
+BIOMASS_Ec_iAF1260_core_59p81M,iAF1260b,1,X,E. coli biomass objective function (iAF1260) - core - with 59.81 GAM estimate
+BIOMASS_Mb_30,iAF692,1,X,Mb biomass 30
+BIOMASS_Gm_GS15_WT_79p20M,iAF987,1,X,Geobacter metallireducens biomass objective function (iAF987) - WT - with 79.20 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iAPECO1_1312,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iAPECO1_1312,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iB21_1397,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iB21_1397,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iBWG_1329,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iBWG_1329,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,ic_1306,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,ic_1306,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iE2348C_1286,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iE2348C_1286,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iEC042_1314,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iEC042_1314,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iEC55989_1330,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iEC55989_1330,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iECABU_c1320,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iECABU_c1320,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iECB_1328,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iECB_1328,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iECBD_1354,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iECBD_1354,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iECD_1391,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iECD_1391,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iECDH10B_1368,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iECDH10B_1368,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iEcDH1_1363,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iEcDH1_1363,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iECDH1ME8569_1439,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iECDH1ME8569_1439,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iEcE24377_1341,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iEcE24377_1341,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iECED1_1282,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iECED1_1282,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iECH74115_1262,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iECH74115_1262,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iEcHS_1320,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iEcHS_1320,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iECIAI1_1343,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iECIAI1_1343,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iECIAI39_1322,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iECIAI39_1322,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iECNA114_1301,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iECNA114_1301,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iECO103_1326,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iECO103_1326,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iECO111_1330,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iECO111_1330,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iECO26_1355,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iECO26_1355,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iECOK1_1307,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iECOK1_1307,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iEcolC_1368,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iEcolC_1368,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iECP_1309,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iECP_1309,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iECs_1301,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iECs_1301,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iECS88_1305,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iECS88_1305,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iECSE_1348,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iECSE_1348,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iECSF_1327,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iECSF_1327,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iEcSMS35_1347,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iEcSMS35_1347,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iECSP_1301,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iECSP_1301,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iECUMN_1333,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iECUMN_1333,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iECW_1372,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iECW_1372,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iEKO11_1354,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iEKO11_1354,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iETEC_1333,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iETEC_1333,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iG2583_1286,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iG2583_1286,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Cl_DSM_WT_46p666M1,iHN637,1,X,Clostridium ljungdahlii biomass objective function (iAF1xxx) - WT - with 46.666 GAM estimate
+BIOMASS_HP_published,iIT341,1,X,BiomassHP published
+BIOMASS_Ec_SynAuto,iJN678,3,,Autotrophic Biomass Ecuation
+BIOMASS_Ec_SynMixo,iJN678,3,,Mixotrophic Biomass Ecuation
+BIOMASS_Ec_SynHetero,iJN678,3,X,Heterotrophic Biomass Ecuation
+BIOMASS_KT_TEMP,iJN746,1,X,BiomassKT TEMP
+BIOMASS_Ec_iJO1366_WT_53p95M,iJO1366,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iJO1366,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ecoli,iJR904,1,X,BiomassEcoli
+BIOMASS_Ec_iJO1366_WT_53p95M,iLF82_1304,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iLF82_1304,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ecoli_TM,iLJ478,1,X,Biomass Thermotoga - values taken from iJR904
+BIOMASS_SC5_notrace,iMM904,1,X,Biomass SC5 notrace
+BIOMASS_SC4_bal,iND750,1,X,Biomass SC4 bal
+BIOMASS_Mtb_9_60atp,iNJ661,1,X,Biomass Mtb 9 60atp
+BIOMASS_Ec_iJO1366_WT_53p95M,iNRG857_1313,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iNRG857_1313,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_25C,iPC815,2,,25C biomass
+BIOMASS_37C,iPC815,2,X,37C biomass
+BIOMASS_Chlamy_auto,iRC1080,3,,Biomass (autotrophic)
+BIOMASS_Chlamy_mixo,iRC1080,3,,Biomass (mixotrophic)
+BIOMASS_Chlamy_hetero,iRC1080,3,X,Biomass (heterotrophic)
+BIOMASS_Ec_iJO1366_WT_53p95M,iS_1188,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iS_1188,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_SA_8a,iSB619,1,X,SA biomass 8 without ions
+BIOMASS_Ec_iJO1366_WT_53p95M,iSbBS512_1146,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iSbBS512_1146,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iSBO_1134,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iSBO_1134,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iSDY_1059,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iSDY_1059,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iSF_1195,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iSF_1195,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iSFV_1184,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iSFV_1184,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iSFxv_1172,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iSFxv_1172,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iSSON_1240,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iSSON_1240,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iUMN146_1321,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iUMN146_1321,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iUMNK88_1353,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iUMNK88_1353,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iUTI89_1310,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iUTI89_1310,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iWFL_1372,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iWFL_1372,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_WT_53p95M,iY75_1357,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iY75_1357,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_,iYL1228,1,X,Biomass
+BIOMASS_BS_10,iYO844,1,X,B subtilis biomass  demand
+BIOMASS_Ec_iJO1366_WT_53p95M,iZ_1308,2,X,E. coli biomass objective function (iJO1366) - WT - with 53.95 GAM estimate
+BIOMASS_Ec_iJO1366_core_53p95M,iZ_1308,2,,E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate
+BIOMASS_Ec_iAF1260_core_59p81M,STM_v1_0,3,X,E. coli biomass objective function (iAF1260) - core - with 59.81 GAM estimate
+BIOMASS_iRR1083,STM_v1_0,3,,Biomass equation from http://www.biomedcentral.com/1752-0509/3/38
+BIOMASS_iRR1083_metals,STM_v1_0,3,,Biomass equation from http://www.biomedcentral.com/1752-0509/3/38 including metals from iAF1260 biomass function
+Biomass,iSM199,1,X,biomass reaction
