@@ -13,7 +13,7 @@ It automatically:
 2. **Calculates environmental distances** via FBA + ARM-LP  
 3. **Quantifies adaptability** (added-reaction distributions)  
 4. **Analyses *E. coli* subsystems** involved in horizontal gene transfer  
-5. **Generates publication-ready figures & tables** (Figs 1–3, S1–S10)
+5. **Generates publication-ready figures & tables** 
 
 
 
