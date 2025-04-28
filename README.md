@@ -41,3 +41,4 @@ If you have any questions or run into issues, please open an issue in the reposi
 
 ## Citation
 If you build upon this code or data, please cite:
+Fritzemeier, C. J., Ghaffarinasab, S., Lieder, F., Szappanos, B., Jarre, F., Papp, B., ... & Lercher, M. J. (2023). Metabolic complexity increases adaptability. bioRxiv, 2023-04.
