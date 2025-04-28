@@ -1,4 +1,4 @@
-# Project Title
+# Metabolic complexity increases evolvability
 
 This project contains files and scripts related to [brief description of your project].
 
